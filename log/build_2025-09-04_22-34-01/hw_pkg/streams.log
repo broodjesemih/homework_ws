@@ -1,0 +1,85 @@
+[0.007s] Invoking command in '/home/broodjesemih/homework_ws/build/hw_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake /home/broodjesemih/homework_ws/src/hw_pkg -DCMAKE_INSTALL_PREFIX=/home/broodjesemih/homework_ws/install/hw_pkg
+[0.049s] -- The C compiler identification is GNU 13.3.0
+[0.098s] -- The CXX compiler identification is GNU 13.3.0
+[0.111s] -- Detecting C compiler ABI info
+[0.203s] -- Detecting C compiler ABI info - done
+[0.209s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.209s] -- Detecting C compile features
+[0.209s] -- Detecting C compile features - done
+[0.219s] -- Detecting CXX compiler ABI info
+[0.320s] -- Detecting CXX compiler ABI info - done
+[0.325s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.325s] -- Detecting CXX compile features
+[0.326s] -- Detecting CXX compile features - done
+[0.328s] -- Found ament_cmake: 2.5.4 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[0.432s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[0.501s] -- Found rclcpp: 28.1.11 (/opt/ros/jazzy/share/rclcpp/cmake)
+[0.530s] -- Found rosidl_generator_c: 4.6.6 (/opt/ros/jazzy/share/rosidl_generator_c/cmake)
+[0.539s] -- Found rosidl_generator_cpp: 4.6.6 (/opt/ros/jazzy/share/rosidl_generator_cpp/cmake)
+[0.550s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.561s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.610s] -- Found rmw_implementation_cmake: 7.3.2 (/opt/ros/jazzy/share/rmw_implementation_cmake/cmake)
+[0.613s] -- Found rmw_fastrtps_cpp: 8.4.3 (/opt/ros/jazzy/share/rmw_fastrtps_cpp/cmake)
+[0.686s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.13")  
+[0.703s] -- Found FastRTPS: /opt/ros/jazzy/include (Required is at least version "2.13") 
+[0.720s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.768s] -- Found rclcpp_action: 28.1.11 (/opt/ros/jazzy/share/rclcpp_action/cmake)
+[0.796s] -- Found std_msgs: 5.3.6 (/opt/ros/jazzy/share/std_msgs/cmake)
+[0.804s] -- Found broodje_interfaces: 0.0.0 (/home/broodjesemih/homework_ws/install/broodje_interfaces/share/broodje_interfaces/cmake)
+[0.813s] -- Found ament_lint_auto: 0.17.3 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+[0.877s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[0.877s] -- Configured cppcheck include dirs: 
+[0.877s] -- Configured cppcheck exclude dirs and/or files: 
+[0.878s] -- Added test 'lint_cmake' to check CMake code style
+[0.878s] -- Added test 'uncrustify' to check C / C++ code style
+[0.879s] -- Configured uncrustify additional arguments: 
+[0.879s] -- Added test 'xmllint' to check XML markup files
+[0.880s] -- Configuring done (0.9s)
+[0.891s] -- Generating done (0.0s)
+[0.896s] -- Build files have been written to: /home/broodjesemih/homework_ws/build/hw_pkg
+[0.903s] Invoked command in '/home/broodjesemih/homework_ws/build/hw_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake /home/broodjesemih/homework_ws/src/hw_pkg -DCMAKE_INSTALL_PREFIX=/home/broodjesemih/homework_ws/install/hw_pkg
+[0.903s] Invoking command in '/home/broodjesemih/homework_ws/build/hw_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --build /home/broodjesemih/homework_ws/build/hw_pkg -- -j20 -l20
+[0.939s] [ 10%] [32mBuilding CXX object CMakeFiles/hw_3-4_ex_1.dir/src/hw_3-4_ex_1.cpp.o[0m
+[0.942s] [ 20%] [32mBuilding CXX object CMakeFiles/hw_2_ex_2.dir/src/hw_2_ex_2.cpp.o[0m
+[0.942s] [ 30%] [32mBuilding CXX object CMakeFiles/hw_2_ex_1.dir/src/hw_2_ex_1.cpp.o[0m
+[0.942s] [ 40%] [32mBuilding CXX object CMakeFiles/hw_5_ex_1.dir/src/hw_5_ex_1.cpp.o[0m
+[0.943s] [ 50%] [32mBuilding CXX object CMakeFiles/hw_3-4_ex_2.dir/src/hw_3-4_ex_2.cpp.o[0m
+[2.666s] [ 60%] [32m[1mLinking CXX executable hw_2_ex_1[0m
+[2.749s] [ 60%] Built target hw_2_ex_1
+[2.762s] [ 70%] [32m[1mLinking CXX executable hw_2_ex_2[0m
+[2.842s] [ 70%] Built target hw_2_ex_2
+[3.496s] [ 80%] [32m[1mLinking CXX executable hw_5_ex_1[0m
+[3.512s] [ 90%] [32m[1mLinking CXX executable hw_3-4_ex_1[0m
+[3.603s] [ 90%] Built target hw_5_ex_1
+[3.618s] [ 90%] Built target hw_3-4_ex_1
+[5.119s] [100%] [32m[1mLinking CXX executable hw_3-4_ex_2[0m
+[5.265s] [100%] Built target hw_3-4_ex_2
+[5.275s] Invoked command in '/home/broodjesemih/homework_ws/build/hw_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --build /home/broodjesemih/homework_ws/build/hw_pkg -- -j20 -l20
+[5.276s] Invoking command in '/home/broodjesemih/homework_ws/build/hw_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --install /home/broodjesemih/homework_ws/build/hw_pkg
+[5.282s] -- Install configuration: ""
+[5.283s] -- Installing: /home/broodjesemih/homework_ws/install/hw_pkg/lib/hw_pkg/hw_2_ex_1
+[5.283s] -- Set non-toolchain portion of runtime path of "/home/broodjesemih/homework_ws/install/hw_pkg/lib/hw_pkg/hw_2_ex_1" to ""
+[5.283s] -- Installing: /home/broodjesemih/homework_ws/install/hw_pkg/lib/hw_pkg/hw_2_ex_2
+[5.283s] -- Set non-toolchain portion of runtime path of "/home/broodjesemih/homework_ws/install/hw_pkg/lib/hw_pkg/hw_2_ex_2" to ""
+[5.283s] -- Installing: /home/broodjesemih/homework_ws/install/hw_pkg/lib/hw_pkg/hw_3-4_ex_1
+[5.284s] -- Set non-toolchain portion of runtime path of "/home/broodjesemih/homework_ws/install/hw_pkg/lib/hw_pkg/hw_3-4_ex_1" to ""
+[5.284s] -- Installing: /home/broodjesemih/homework_ws/install/hw_pkg/lib/hw_pkg/hw_3-4_ex_2
+[5.286s] -- Set non-toolchain portion of runtime path of "/home/broodjesemih/homework_ws/install/hw_pkg/lib/hw_pkg/hw_3-4_ex_2" to ""
+[5.286s] -- Installing: /home/broodjesemih/homework_ws/install/hw_pkg/lib/hw_pkg/hw_5_ex_1
+[5.287s] -- Set non-toolchain portion of runtime path of "/home/broodjesemih/homework_ws/install/hw_pkg/lib/hw_pkg/hw_5_ex_1" to ""
+[5.287s] -- Installing: /home/broodjesemih/homework_ws/install/hw_pkg/share/ament_index/resource_index/package_run_dependencies/hw_pkg
+[5.287s] -- Installing: /home/broodjesemih/homework_ws/install/hw_pkg/share/ament_index/resource_index/parent_prefix_path/hw_pkg
+[5.287s] -- Installing: /home/broodjesemih/homework_ws/install/hw_pkg/share/hw_pkg/environment/ament_prefix_path.sh
+[5.287s] -- Installing: /home/broodjesemih/homework_ws/install/hw_pkg/share/hw_pkg/environment/ament_prefix_path.dsv
+[5.287s] -- Installing: /home/broodjesemih/homework_ws/install/hw_pkg/share/hw_pkg/environment/path.sh
+[5.287s] -- Installing: /home/broodjesemih/homework_ws/install/hw_pkg/share/hw_pkg/environment/path.dsv
+[5.287s] -- Installing: /home/broodjesemih/homework_ws/install/hw_pkg/share/hw_pkg/local_setup.bash
+[5.287s] -- Installing: /home/broodjesemih/homework_ws/install/hw_pkg/share/hw_pkg/local_setup.sh
+[5.287s] -- Installing: /home/broodjesemih/homework_ws/install/hw_pkg/share/hw_pkg/local_setup.zsh
+[5.287s] -- Installing: /home/broodjesemih/homework_ws/install/hw_pkg/share/hw_pkg/local_setup.dsv
+[5.287s] -- Installing: /home/broodjesemih/homework_ws/install/hw_pkg/share/hw_pkg/package.dsv
+[5.287s] -- Installing: /home/broodjesemih/homework_ws/install/hw_pkg/share/ament_index/resource_index/packages/hw_pkg
+[5.288s] -- Installing: /home/broodjesemih/homework_ws/install/hw_pkg/share/hw_pkg/cmake/hw_pkgConfig.cmake
+[5.288s] -- Installing: /home/broodjesemih/homework_ws/install/hw_pkg/share/hw_pkg/cmake/hw_pkgConfig-version.cmake
+[5.288s] -- Installing: /home/broodjesemih/homework_ws/install/hw_pkg/share/hw_pkg/package.xml
+[5.289s] Invoked command in '/home/broodjesemih/homework_ws/build/hw_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --install /home/broodjesemih/homework_ws/build/hw_pkg

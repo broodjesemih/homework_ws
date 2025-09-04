@@ -1,0 +1,124 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-92daabfdae120dce10b7.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "hw_pkg",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "hw_2_ex_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-hw_2_ex_1-dcb8a24926c8f06447a1.json",
+					"name" : "hw_2_ex_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "hw_2_ex_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-hw_2_ex_2-93d2796a60fd290f0379.json",
+					"name" : "hw_2_ex_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "hw_3-4_ex_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-hw_3-4_ex_1-48552b92dd54df0a960a.json",
+					"name" : "hw_3-4_ex_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "hw_3-4_ex_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-hw_3-4_ex_2-ca1b509ecfdcda31d08d.json",
+					"name" : "hw_3-4_ex_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "hw_5_ex_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-hw_5_ex_1-572571a34163fb42c8fa.json",
+					"name" : "hw_5_ex_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "hw_5_ex_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-hw_5_ex_2-537fdd1f158345efe0f8.json",
+					"name" : "hw_5_ex_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "hw_pkg_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-hw_pkg_uninstall-7dc19d473284afbd1b0a.json",
+					"name" : "hw_pkg_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-3163708ff03a7ac2f13e.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/broodjesemih/homework_ws/build/hw_pkg",
+		"source" : "/home/broodjesemih/homework_ws/src/hw_pkg"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

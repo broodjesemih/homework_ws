@@ -1,0 +1,79 @@
+{
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target"
+		],
+		"files" : 
+		[
+			"/home/broodjesemih/homework_ws/build/broodje_interfaces/broodje_interfaces__py/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 36,
+				"parent" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"id" : "broodje_interfaces::@6890427a1f51a3e7e1df"
+		}
+	],
+	"id" : "broodje_interfaces__py::@aa3239c67d4439e78ee9",
+	"name" : "broodje_interfaces__py",
+	"paths" : 
+	{
+		"build" : "broodje_interfaces__py",
+		"source" : "/home/broodjesemih/homework_ws/build/broodje_interfaces/broodje_interfaces__py"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1,
+				2
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"isGenerated" : true,
+			"path" : "/home/broodjesemih/homework_ws/build/broodje_interfaces/broodje_interfaces__py/CMakeFiles/broodje_interfaces__py",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/broodjesemih/homework_ws/build/broodje_interfaces/broodje_interfaces__py/CMakeFiles/broodje_interfaces__py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/broodjesemih/homework_ws/build/broodje_interfaces/rosidl_generator_py/broodje_interfaces/_broodje_interfaces_s.ep.rosidl_typesupport_fastrtps_c.c.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

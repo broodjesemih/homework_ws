@@ -1,0 +1,242 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-9e8b907b321c1ac4dab2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18
+					]
+				},
+				{
+					"build" : "broodje_interfaces__py",
+					"jsonFile" : "directory-broodje_interfaces__py-cf1b874bba038b474129.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/broodjesemih/homework_ws/build/broodje_interfaces/broodje_interfaces__py",
+					"targetIndexes" : 
+					[
+						4
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "broodje_interfaces",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_build_broodje_interfaces_egg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_build_broodje_interfaces_egg-2bb5023f2b6534340c2f.json",
+					"name" : "ament_cmake_python_build_broodje_interfaces_egg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_copy_broodje_interfaces::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_copy_broodje_interfaces-eadc686c2d2c3720877b.json",
+					"name" : "ament_cmake_python_copy_broodje_interfaces",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "broodje_interfaces::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-broodje_interfaces-67bac05fa2b69571bf49.json",
+					"name" : "broodje_interfaces",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "broodje_interfaces__cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-broodje_interfaces__cpp-2fc46821a6b3859f3012.json",
+					"name" : "broodje_interfaces__cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "broodje_interfaces__py::@aa3239c67d4439e78ee9",
+					"jsonFile" : "target-broodje_interfaces__py-b3ac648d705373473fd9.json",
+					"name" : "broodje_interfaces__py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "broodje_interfaces__rosidl_generator_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-broodje_interfaces__rosidl_generator_c-21d4b133de4c9ad3da00.json",
+					"name" : "broodje_interfaces__rosidl_generator_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "broodje_interfaces__rosidl_generator_py::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-broodje_interfaces__rosidl_generator_py-4646ef27b0ae589de848.json",
+					"name" : "broodje_interfaces__rosidl_generator_py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "broodje_interfaces__rosidl_generator_type_description::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-broodje_interfaces__rosidl_generator_type_description-e5ac31c80c1acd59acb5.json",
+					"name" : "broodje_interfaces__rosidl_generator_type_description",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "broodje_interfaces__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-broodje_interfaces__rosidl_typesupport_c-843a1657c8a16e63fd3f.json",
+					"name" : "broodje_interfaces__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "broodje_interfaces__rosidl_typesupport_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-broodje_interfaces__rosidl_typesupport_cpp-c2bb8fde3431e25ce3f9.json",
+					"name" : "broodje_interfaces__rosidl_typesupport_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "broodje_interfaces__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-broodje_interfaces__rosidl_typesupport_fastrtps_c-c7f37fe4e7801005c04f.json",
+					"name" : "broodje_interfaces__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "broodje_interfaces__rosidl_typesupport_fastrtps_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-broodje_interfaces__rosidl_typesupport_fastrtps_cpp-142bbae3127a708a4388.json",
+					"name" : "broodje_interfaces__rosidl_typesupport_fastrtps_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "broodje_interfaces__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-broodje_interfaces__rosidl_typesupport_introspection_c-73bc373451660b4280bb.json",
+					"name" : "broodje_interfaces__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "broodje_interfaces__rosidl_typesupport_introspection_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-broodje_interfaces__rosidl_typesupport_introspection_cpp-a8203c2e0c9bb36c6487.json",
+					"name" : "broodje_interfaces__rosidl_typesupport_introspection_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "broodje_interfaces_s__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-broodje_interfaces_s__rosidl_typesupport_c-2354aef2cf2d52c75451.json",
+					"name" : "broodje_interfaces_s__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "broodje_interfaces_s__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-broodje_interfaces_s__rosidl_typesupport_fastrtps_c-3122d98b89119b16f242.json",
+					"name" : "broodje_interfaces_s__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "broodje_interfaces_s__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-broodje_interfaces_s__rosidl_typesupport_introspection_c-fc693e680c3346e258d5.json",
+					"name" : "broodje_interfaces_s__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "broodje_interfaces_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-broodje_interfaces_uninstall-39229f2f44d0c01032e7.json",
+					"name" : "broodje_interfaces_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-f9e71ea8e93bd380f33b.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/broodjesemih/homework_ws/build/broodje_interfaces",
+		"source" : "/home/broodjesemih/homework_ws/src/broodje_interfaces"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

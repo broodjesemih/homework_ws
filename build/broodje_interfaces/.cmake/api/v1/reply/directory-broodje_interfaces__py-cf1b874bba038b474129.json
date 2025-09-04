@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "broodje_interfaces__py",
+		"source" : "/home/broodjesemih/homework_ws/build/broodje_interfaces/broodje_interfaces__py"
+	}
+}

@@ -1,0 +1,6 @@
+Invoking command in '/home/broodjesemih/homework_ws/build/hw_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake /home/broodjesemih/homework_ws/src/hw_pkg -DCMAKE_INSTALL_PREFIX=/home/broodjesemih/homework_ws/install/hw_pkg
+Invoked command in '/home/broodjesemih/homework_ws/build/hw_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake /home/broodjesemih/homework_ws/src/hw_pkg -DCMAKE_INSTALL_PREFIX=/home/broodjesemih/homework_ws/install/hw_pkg
+Invoking command in '/home/broodjesemih/homework_ws/build/hw_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --build /home/broodjesemih/homework_ws/build/hw_pkg -- -j20 -l20
+Invoked command in '/home/broodjesemih/homework_ws/build/hw_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --build /home/broodjesemih/homework_ws/build/hw_pkg -- -j20 -l20
+Invoking command in '/home/broodjesemih/homework_ws/build/hw_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --install /home/broodjesemih/homework_ws/build/hw_pkg
+Invoked command in '/home/broodjesemih/homework_ws/build/hw_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --install /home/broodjesemih/homework_ws/build/hw_pkg

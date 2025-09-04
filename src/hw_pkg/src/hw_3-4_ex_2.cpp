@@ -1,0 +1,32 @@
+#include <rclcpp/rclcpp.hpp>
+#include <std_msgs/msg/int32.hpp>
+
+class AddSubscriberNode : public rclcpp::Node
+{
+public:
+    AddSubscriberNode() : Node("add_subscriber_node")
+    {
+        subscription_ = this->create_subscription<std_msgs::msg::Int32>(
+            "random_number",
+            10,
+            std::bind(&AddSubscriberNode::topic_callback, this, std::placeholders::_1)
+        );
+    }
+
+private:
+    void topic_callback(const std_msgs::msg::Int32::SharedPtr msg)
+    {
+        int result = msg->data + 1000;
+        RCLCPP_INFO(this->get_logger(), "Received: %d, Result: %d", msg->data, result);
+    }
+
+    rclcpp::Subscription<std_msgs::msg::Int32>::SharedPtr subscription_;
+};
+
+int main(int argc, char **argv)
+{
+    rclcpp::init(argc, argv);
+    rclcpp::spin(std::make_shared<AddSubscriberNode>());
+    rclcpp::shutdown();
+    return 0;
+}

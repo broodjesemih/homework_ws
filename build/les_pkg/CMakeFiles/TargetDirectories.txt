@@ -1,9 +1,0 @@
-/home/broodjesemih/homework_ws/build/les_pkg/CMakeFiles/uninstall.dir
-/home/broodjesemih/homework_ws/build/les_pkg/CMakeFiles/les_pkg_uninstall.dir
-/home/broodjesemih/homework_ws/build/les_pkg/CMakeFiles/test.dir
-/home/broodjesemih/homework_ws/build/les_pkg/CMakeFiles/edit_cache.dir
-/home/broodjesemih/homework_ws/build/les_pkg/CMakeFiles/rebuild_cache.dir
-/home/broodjesemih/homework_ws/build/les_pkg/CMakeFiles/list_install_components.dir
-/home/broodjesemih/homework_ws/build/les_pkg/CMakeFiles/install.dir
-/home/broodjesemih/homework_ws/build/les_pkg/CMakeFiles/install/local.dir
-/home/broodjesemih/homework_ws/build/les_pkg/CMakeFiles/install/strip.dir

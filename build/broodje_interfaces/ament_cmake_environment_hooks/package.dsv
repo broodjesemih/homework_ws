@@ -1,0 +1,4 @@
+source;share/broodje_interfaces/local_setup.bash
+source;share/broodje_interfaces/local_setup.dsv
+source;share/broodje_interfaces/local_setup.sh
+source;share/broodje_interfaces/local_setup.zsh
